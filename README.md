@@ -2,6 +2,12 @@
 
 Bu proje örnek bir Discord Bot projesidir. Proje içerisinde x sistemi, y sistemi ve z gibi temel özellikler bulunmaktadır. Projeyi inceleyerek kendi botunuzu geliştirebilir veya örnek olarak kullanabilirsiniz. Proje tamamen eğitim amaçlı olup, geliştiricilerin Discord bot yapımını daha iyi anlamaları için oluşturulmuştur.
 
+<div align="center">
+    <a href="https://discord.gg/opdev">
+        <img src="https://img.shields.io/discord/123456789?color=5865F2&logo=discord&logoColor=white&style=for-the-badge" alt="Discord">
+    </a>
+</div>
+
 ## Özellikler
 Proje haliyle bazı temel özellikleri içermektedir. Projenin temel özelliklerini aşağıdan inceleyebilirsiniz;
 - [x] Örnek Özellik 1
