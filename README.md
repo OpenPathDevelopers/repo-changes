@@ -8,7 +8,15 @@ Proje haliyle bazı temel özellikleri içermektedir. Projenin temel özellikler
 - [ ] Örnek Özellik 2
 - [ ] Örnek Özellik 3
 
-## Kullanım
+## Başlangıç & Kullanım
+
+```mermaid
+graph LR
+A[📲 Dışa Aktar] --> B[💾 Modülleri Yükle]
+B --> C[📝 Bilgileri Doldur]
+C --> D[Hazır! 🎉]
+```
+
 
 Projeyi ``.zip`` halinde indirdikten sonra, istediğiniz bir konuma içerisindeki dosyayı rar'dan dışarıya aktarın. Ardından projeyi kod editörünüzde açın ve proje ile ilgili modülleri projenize terminal aracılığı ile indirin.
 
@@ -40,6 +48,9 @@ Hatalarınızı hata yardım kanalımız ile daha detaylı ve hızlı bir şekil
 > Proje üzerindeki yükümlülükler ve sorumluluklar kullanıcı indirdikten sonra kullanıcının kendisine aittir.
 <br>
 <br>
+
+Altyapı hakkında detaylı bilgilendirme ve dökümantasyon için resmi web adresimiz olan *<https://openpathdevs.com/x_projesi>* sayfasına uğrayabilirsiniz.
+
 <div align="center">
     <sub>Proje OpenPathDevelopers Tarafından :heart: ile geliştirilmiştir.</sub>
 </div>
